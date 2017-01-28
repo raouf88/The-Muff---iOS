@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>SearchDelegate Protocol Reference</title>
+    <link rel="stylesheet" type="text/css" href="../css/jazzy.css" />
+    <link rel="stylesheet" type="text/css" href="../css/highlight.css" />
+    <meta charset='utf-8'>
+    <script src="../js/jquery.min.js" defer></script>
+    <script src="../js/jazzy.js" defer></script>
+    
+  </head>
+  <body>
+    <a name="//apple_ref/swift/Protocol/SearchDelegate" class="dashAnchor"></a>
+    <a title="SearchDelegate Protocol Reference"></a>
+    <header>
+      <div class="content-wrapper">
+        <p><a href="../index.html"> Docs</a> (61% documented)</p>
+      </div>
+    </header>
+    <div class="content-wrapper">
+      <p id="breadcrumbs">
+        <a href="../index.html"> Reference</a>
+        <img id="carat" src="../img/carat.png" />
+        SearchDelegate Protocol Reference
+      </p>
+    </div>
+    <div class="content-wrapper">
+      <nav class="sidebar">
+        <ul class="nav-groups">
+          <li class="nav-group-name">
+            <a href="../Classes.html">Classes</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Classes/AppDelegate.html">AppDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/FavoriteViewController.html">FavoriteViewController</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Favorites.html">Favorites</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/FloatRatingView.html">FloatRatingView</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Movie.html">Movie</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MovieHelper.html">MovieHelper</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/MovieTableViewCell.html">MovieTableViewCell</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/Search.html">Search</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Classes/SearchViewController.html">SearchViewController</a>
+              </li>
+            </ul>
+          </li>
+          <li class="nav-group-name">
+            <a href="../Protocols.html">Protocols</a>
+            <ul class="nav-group-tasks">
+              <li class="nav-group-task">
+                <a href="../Protocols/FavoritesDelegate.html">FavoritesDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/FloatRatingViewDelegate.html">FloatRatingViewDelegate</a>
+              </li>
+              <li class="nav-group-task">
+                <a href="../Protocols/SearchDelegate.html">SearchDelegate</a>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+      <article class="main-content">
+        <section>
+          <section class="section">
+            <h1>SearchDelegate</h1>
+              <div class="declaration">
+                <div class="language">
+                  <pre class="highlight"><code><span class="kd">protocol</span> <span class="kt">SearchDelegate</span> <span class="p">:</span> <span class="kd">class</span></code></pre>
+
+                </div>
+              </div>
+            <p>delegate for  Search that provides callbacks about the search results</p>
+
+          </section>
+          <section class="section task-group-section">
+            <div class="task-group">
+              <ul>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:FP21The_Muff___Abdelraouf14SearchDelegate6searchFT7didFailSS_T_"></a>
+                    <a name="//apple_ref/swift/Method/search(didFail:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:FP21The_Muff___Abdelraouf14SearchDelegate6searchFT7didFailSS_T_">search(didFail:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>called when the search process fails. shows error as an alert
+- Parameter error : error msg</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="n">didFail</span> <span class="nv">error</span><span class="p">:</span><span class="kt">String</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>error</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>error msg</p>
+
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+                <li class="item">
+                  <div>
+                    <code>
+                    <a name="/s:FP21The_Muff___Abdelraouf14SearchDelegate6searchFT10didSuccessGSaCS_5Movie_12totalResultsSi_T_"></a>
+                    <a name="//apple_ref/swift/Method/search(didSuccess:totalResults:)" class="dashAnchor"></a>
+                    <a class="token" href="#/s:FP21The_Muff___Abdelraouf14SearchDelegate6searchFT10didSuccessGSaCS_5Movie_12totalResultsSi_T_">search(didSuccess:totalResults:)</a>
+                    </code>
+                  </div>
+                  <div class="height-container">
+                    <div class="pointer-container"></div>
+                    <section class="section">
+                      <div class="pointer"></div>
+                      <div class="abstract">
+                        <p>called when the search process suucceed.
+- Parameter movies : result as an array of movies
+- Parameter totalResults : total number of results.</p>
+
+                      </div>
+                      <div class="declaration">
+                        <h4>Declaration</h4>
+                        <div class="language">
+                          <p class="aside-title">Swift</p>
+                          <pre class="highlight"><code><span class="kd">func</span> <span class="nf">search</span><span class="p">(</span><span class="n">didSuccess</span> <span class="nv">movies</span><span class="p">:</span><span class="kt">Array</span><span class="o">&lt;</span><span class="kt"><a href="../Classes/Movie.html">Movie</a></span><span class="o">&gt;</span><span class="p">,</span> <span class="nv">totalResults</span><span class="p">:</span><span class="kt">Int</span><span class="p">)</span></code></pre>
+
+                        </div>
+                      </div>
+                      <div>
+                        <h4>Parameters</h4>
+                        <table class="graybox">
+                          <tbody>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>movies</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>result as an array of movies</p>
+
+                                </div>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>
+                                <code>
+                                <em>totalResults</em>
+                                </code>
+                              </td>
+                              <td>
+                                <div>
+                                  <p>total number of results.</p>
+
+                                </div>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </table>
+                      </div>
+                    </section>
+                  </div>
+                </li>
+              </ul>
+            </div>
+          </section>
+        </section>
+        <section id="footer">
+          <p>&copy; 2017 <a class="link" href="" target="_blank" rel="external"></a>. All rights reserved. (Last updated: 2017-01-28)</p>
+          <p>Generated by <a class="link" href="https://github.com/realm/jazzy" target="_blank" rel="external">jazzy ♪♫ v0.7.2</a>, a <a class="link" href="http://realm.io" target="_blank" rel="external">Realm</a> project.</p>
+        </section>
+      </article>
+    </div>
+  </body>
+</div>
+</html>

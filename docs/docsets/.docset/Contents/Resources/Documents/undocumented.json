@@ -1,0 +1,313 @@
+{
+  "warnings": [
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/AppDelegate.swift",
+      "line": 12,
+      "symbol": "AppDelegate",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/AppDelegate.swift",
+      "line": 14,
+      "symbol": "AppDelegate.window",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FavoriteViewController.swift",
+      "line": 11,
+      "symbol": "FavoriteViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FavoriteViewController.swift",
+      "line": 14,
+      "symbol": "FavoriteViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FavoriteViewController.swift",
+      "line": 17,
+      "symbol": "FavoriteViewController.favorites",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FavoriteViewController.swift",
+      "line": 18,
+      "symbol": "FavoriteViewController.movies",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Favorites.swift",
+      "line": 22,
+      "symbol": "Favorites",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 11,
+      "symbol": "FloatRatingViewDelegate",
+      "symbol_kind": "source.lang.swift.decl.protocol",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 31,
+      "symbol": "FloatRatingView.delegate",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 140,
+      "symbol": "FloatRatingView.init(frame:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 146,
+      "symbol": "FloatRatingView.init(coder:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 154,
+      "symbol": "FloatRatingView.refresh()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 180,
+      "symbol": "FloatRatingView.sizeForImage(_:inSize:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 199,
+      "symbol": "FloatRatingView.layoutSubviews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 224,
+      "symbol": "FloatRatingView.removeImageViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 236,
+      "symbol": "FloatRatingView.initImageViews()",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 260,
+      "symbol": "FloatRatingView.handleTouchAtLocation(_:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 297,
+      "symbol": "FloatRatingView.touchesBegan(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 304,
+      "symbol": "FloatRatingView.touchesMoved(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/FloatRatingView.swift",
+      "line": 311,
+      "symbol": "FloatRatingView.touchesEnded(_:with:)",
+      "symbol_kind": "source.lang.swift.decl.function.method.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Movie.swift",
+      "line": 11,
+      "symbol": "Movie",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieHelper.swift",
+      "line": 12,
+      "symbol": "MovieHelper",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieHelper.swift",
+      "line": 15,
+      "symbol": "MovieHelper.movie",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieHelper.swift",
+      "line": 16,
+      "symbol": "MovieHelper.posterDocumentPath",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieHelper.swift",
+      "line": 17,
+      "symbol": "MovieHelper.imagesCache",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieHelper.swift",
+      "line": 18,
+      "symbol": "MovieHelper.favorites",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 11,
+      "symbol": "MovieTableViewCell",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 14,
+      "symbol": "MovieTableViewCell.coverImageView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 15,
+      "symbol": "MovieTableViewCell.titleLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 16,
+      "symbol": "MovieTableViewCell.releaseLabel",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 17,
+      "symbol": "MovieTableViewCell.ratingView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 18,
+      "symbol": "MovieTableViewCell.favoriteButton",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 21,
+      "symbol": "MovieTableViewCell.viewController",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 22,
+      "symbol": "MovieTableViewCell.movie",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/MovieTableViewCell.swift",
+      "line": 23,
+      "symbol": "MovieTableViewCell.movieHelper",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Search.swift",
+      "line": 28,
+      "symbol": "Search",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Search.swift",
+      "line": 42,
+      "symbol": "Search.totalResults",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Search.swift",
+      "line": 43,
+      "symbol": "Search.currentPage",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Search.swift",
+      "line": 44,
+      "symbol": "Search.textToSearch",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/Search.swift",
+      "line": 45,
+      "symbol": "Search.task",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/SearchViewController.swift",
+      "line": 11,
+      "symbol": "SearchViewController",
+      "symbol_kind": "source.lang.swift.decl.class",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/SearchViewController.swift",
+      "line": 14,
+      "symbol": "SearchViewController.searchBar",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/SearchViewController.swift",
+      "line": 15,
+      "symbol": "SearchViewController.tableView",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    },
+    {
+      "file": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf/The Muff - Abdelraouf/SearchViewController.swift",
+      "line": 18,
+      "symbol": "SearchViewController.search",
+      "symbol_kind": "source.lang.swift.decl.var.instance",
+      "warning": "undocumented"
+    }
+  ],
+  "source_directory": "/Users/raouf/Workspace/iOS/The Muff - Abdelraouf"
+}
